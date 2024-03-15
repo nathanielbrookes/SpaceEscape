@@ -1,5 +1,9 @@
 # Space Escape!
 
+<img src='screenshot.png' alt='Screenshot taken from the Game' width='400' />
+
+_Screenshot taken from the game_
+
 ## About This Game Concept
 
 I created this 3D game in C++ as part of my university coursework for the module: "Games Computing".
